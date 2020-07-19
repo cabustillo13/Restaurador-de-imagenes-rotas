@@ -20,4 +20,4 @@ Ambos algoritmos son relativamente rápidos. Cuando la región de la imagen se q
 
 La máscara o mask se obtiene mediante el uso de Photopea. Se crean 3 capas: una para la imagen original, la siguiente para el fondo totalmente negro y por último las regiones donde queremos aplicar el inpainting. Para un mejor acabado en la imagen final, se puede utilizar un array con los pixeles precisamente donde se quiere hacer el inpainting o un proceso más minucioso en la 3er capa cuando se utiliza Photopea.
 
-Imágenes obtenidas de Pixabay. La licencia ampara gratis para usos omerciales y no es necesario reconocimiento.
+Imágenes obtenidas de Pixabay. La licencia ampara: gratis para usos comerciales y no es necesario reconocimiento.
