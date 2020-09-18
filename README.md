@@ -3,10 +3,10 @@ Restaurar imágenes dañadas y/o viejas con image inpainting
 
 Se plantea un programa capaz de: 
 
-1- Borrar marcas de agua indeseables en imágenes.
-2- Restaurar imágenes que se han deteriorado a través de los años.
-3- Eliminar graffitis o elementos no deseados en esculturas, murales, estatuas, etc.
-4- Eliminar pequeños tatuajes.
+- 1- Borrar marcas de agua indeseables en imágenes.
+- 2- Restaurar imágenes que se han deteriorado a través de los años.
+- 3- Eliminar graffitis o elementos no deseados en esculturas, murales, estatuas, etc.
+- 4- Eliminar pequeños tatuajes.
 
 Se utilizan dos algoritmos:
 
@@ -14,7 +14,7 @@ El primero se basa en el documento 'Una técnica de pintura de imágenes basada 
 
 El segundo algoritmo se basa en el artículo 'Navier-Stokes, Fluid Dynamics, and Image and Video Inpainting' de Bertalmio, Marcelo, Andrea L. Bertozzi y Guillermo Sapiro en 2001. Con ésto obtenemos la imagen: "restauracion2.jpg"
 
-Para más información sobre éstos dos algoritmos recurrir a la documentación OpenCv: https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_photo/py_inpainting/py_inpainting.html.
+Para más información sobre éstos dos algoritmos recurrir a la (documentación OpenCV)[https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_photo/py_inpainting/py_inpainting.html.]
 
 Ambos algoritmos son relativamente rápidos. Cuando la región de la imagen se quiere rellenar es relativamente grande, el acabo final que se obtiene en la imagen no es muy bueno.
 
