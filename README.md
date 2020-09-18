@@ -14,7 +14,7 @@ El primero se basa en el documento 'Una técnica de pintura de imágenes basada 
 
 El segundo algoritmo se basa en el artículo 'Navier-Stokes, Fluid Dynamics, and Image and Video Inpainting' de Bertalmio, Marcelo, Andrea L. Bertozzi y Guillermo Sapiro en 2001. Con ésto obtenemos la imagen: "restauracion2.jpg"
 
-Para más información sobre éstos dos algoritmos recurrir a la (documentación OpenCV)[https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_photo/py_inpainting/py_inpainting.html.]
+Para más información sobre éstos dos algoritmos recurrir a la [documentación OpenCV](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_photo/py_inpainting/py_inpainting.html)
 
 Ambos algoritmos son relativamente rápidos. Cuando la región de la imagen se quiere rellenar es relativamente grande, el acabo final que se obtiene en la imagen no es muy bueno.
 
